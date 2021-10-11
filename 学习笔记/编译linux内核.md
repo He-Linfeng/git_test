@@ -8,7 +8,7 @@
 
     sudo apt update
     sudo apt upgrade
-    sudo apt install libncurses,flex,bison,libssl-dev,libelf-dev
+    sudo apt install libncurses-dev,flex,bison,libssl-dev,libelf-dev
 
 ## 解压内核
 
